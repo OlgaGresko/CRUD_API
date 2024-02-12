@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "declaration": true,
+      "outDir": "../../built/local"
+    },
+    "include": ["src/**/*"]
+  }
